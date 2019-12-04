@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-wOYv5f4sungrQ-amo9gUMg" name="new_guideline,_sNcngBToEeqluqIEikt1EA" guid="-wOYv5f4sungrQ-amo9gUMg" changeDate="2019-12-02T16:47:29.467+0700">
+  <mainDescription>Software is produced performing integration of Software Components and verified using Test Cases and Test Procedures.&#xD;
+Results are recorded at the Test Report. Defects are corrected and consistency and traceability to Software Design are&#xD;
+established.</mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

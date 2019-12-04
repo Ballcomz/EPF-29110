@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-o8MCF208ie--zoRADShFsw" name="new_guideline,_FTDPcBToEeqluqIEikt1EA" guid="-o8MCF208ie--zoRADShFsw" changeDate="2019-12-02T16:42:57.152+0700">
+  <mainDescription>A software Version Control Strategy is developed. Items of Software Configuration are identified, defined and baselined.&#xD;
+Modifications and releases of the items are controlled and made available to the Customer and Work Team. The storage,&#xD;
+handling and delivery of the items are controlled.</mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

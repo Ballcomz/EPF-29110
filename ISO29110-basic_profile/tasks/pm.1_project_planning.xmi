@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-Ly2JJMqEJGK83oi6JiOXRg" name="pm.1_project_planning,_GtLPoBTeEeqluqIEikt1EA" guid="-Ly2JJMqEJGK83oi6JiOXRg" changeDate="2019-12-03T15:46:24.635+0700">
+  <mainDescription>&lt;p>&#xD;
+    ⎯ Reviewed Statement of Work and the Tasks needed to provide the contract Deliverables and to satisfy Customer&#xD;
+    requirements.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    ⎯ Project lifecycle, including task dependencies and duration.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    ⎯ Project quality assurance strategy through verification and validation of work products/Deliverables, Customer and&#xD;
+    Work Team reviews.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &amp;nbsp;⎯ Work Team and Customer roles and responsibilities.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    ⎯ Project Resources and training needs.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    ⎯ Estimates of effort, cost and schedule.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    ⎯ Identified project risks.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    ⎯ Project version control and baseline strategy.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    ⎯ Project Repository to store, handle and deliver controlled product and document versions and baselines.&#xD;
+&lt;/p></mainDescription>
+  <sections xmi:id="_EdrDYBWoEeqRfsXJfNg9TQ" name="PM.1.1 Review the Statement of Work" guid="_EdrDYBWoEeqRfsXJfNg9TQ"/>
+  <sections xmi:id="_L9O6UBWqEeqRfsXJfNg9TQ" name="PM.1.2 Define Delivery instruction" guid="_L9O6UBWqEeqRfsXJfNg9TQ">
+    <sectionDescription>&lt;table class=&quot;NormalTable&quot;>&#xD;
+    &lt;tbody>&#xD;
+        &lt;tr>&#xD;
+            &lt;td width=&quot;297&quot;>&#xD;
+                &lt;span class=&quot;fontstyle0&quot;>PM.1.2 Define with the Custome&lt;/span>&lt;span class=&quot;fontstyle2&quot;>&lt;em>r&lt;/em>&lt;/span>&#xD;
+                &lt;span class=&quot;fontstyle0&quot;>the&lt;/span> &lt;span class=&quot;fontstyle2&quot;>&lt;em>Delivery&lt;br />&#xD;
+                Instructions&lt;/em>&lt;/span> &lt;span class=&quot;fontstyle0&quot;>of each one of the&lt;/span> &lt;span&#xD;
+                class=&quot;fontstyle2&quot;>&lt;em>Deliverables&lt;br />&#xD;
+                &lt;/em>&lt;/span>&lt;span class=&quot;fontstyle0&quot;>specified in the&lt;/span> &lt;span class=&quot;fontstyle2&quot;>&lt;em>Statement of&#xD;
+                Work.&lt;/em>&lt;/span> &#xD;
+            &lt;/td>&#xD;
+        &lt;/tr>&#xD;
+    &lt;/tbody>&#xD;
+&lt;/table>&#xD;
+&lt;br&#xD;
+style=&quot;FONT-VARIANT: normal; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: normal; FONT-STYLE: normal; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; LINE-HEIGHT: normal; TEXT-INDENT: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px&quot; />&#xD;
+</sectionDescription>
+  </sections>
+  <purpose>The Project Planning activity documents the planning details needed to manage the project. The activity provides</purpose>
+</org.eclipse.epf.uma:TaskDescription>

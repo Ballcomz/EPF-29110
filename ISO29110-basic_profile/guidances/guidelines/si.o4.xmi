@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-2f4C03iwatrVhEf3JIBviQ" name="new_guideline,_nwhJMBToEeqluqIEikt1EA" guid="-2f4C03iwatrVhEf3JIBviQ" changeDate="2019-12-02T16:46:48.893+0700">
+  <mainDescription>Software Components defined by the design are produced. Unit test are defined and performed to verify the consistency with&#xD;
+requirements and the design. Traceability to the requirements and design are established.</mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-qt0IUwZHyj1I5dzBrYNfhQ" name="new_guideline,_cy5lEBToEeqluqIEikt1EA" guid="-qt0IUwZHyj1I5dzBrYNfhQ" changeDate="2019-12-02T16:45:38.345+0700">
+  <mainDescription>Tasks of the activities are performed through the accomplishment of the current Project Plan.</mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

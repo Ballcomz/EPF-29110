@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-0tmdsf82Tw43nrism7mRUA" name="new_guideline,_0J7LUBTnEeqluqIEikt1EA" guid="-0tmdsf82Tw43nrism7mRUA" changeDate="2019-12-02T16:41:07.214+0700">
+  <mainDescription>Progress of the project is monitored against the Project Plan and recorded in the Progress Status Record. Corrections to&#xD;
+remediate problems and deviations from the plan are taken when project targets are not achieved. Closure of the project is&#xD;
+performed to get the Customer acceptance documented in the Acceptance Record</mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

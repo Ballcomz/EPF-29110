@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-LcteZGPXIRRzpQ0hM8jWwg" name="new_guideline,_mWFA8BTnEeqluqIEikt1EA" guid="-LcteZGPXIRRzpQ0hM8jWwg" changeDate="2019-12-02T16:40:10.873+0700">
+  <mainDescription>The Project Plan for the execution of the project is developed according to the Statement of Work and reviewed and accepted&#xD;
+by the Customer. The Tasks and Resources necessary to complete the work are sized and estimated</mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

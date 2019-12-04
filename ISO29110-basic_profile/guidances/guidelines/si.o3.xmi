@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-Jq2Tc0fD7WsVWfkePysg-g" name="new_guideline,_juhTYBToEeqluqIEikt1EA" guid="-Jq2Tc0fD7WsVWfkePysg-g" changeDate="2019-12-02T16:46:21.810+0700">
+  <mainDescription>Software architectural and detailed design is developed and baselined. It describes the Software Components and internal&#xD;
+and external interfaces of them. Consistency and traceability to software requirements are established.</mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-Kq2qwTL5bHP_lyPYFRP7dw" name="new_guideline,_4lBdoBTnEeqluqIEikt1EA" guid="-Kq2qwTL5bHP_lyPYFRP7dw" changeDate="2019-12-02T16:41:33.982+0700">
+  <mainDescription>The Change Requests are addressed through their reception and analysis. Changes to software requirements are evaluated for&#xD;
+cost, schedule and technical impact.</mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_yDL6cRZqEeqIKOtfYTFqJQ" guid="_yDL6cRZqEeqIKOtfYTFqJQ">
+    <resourceDescriptors xmi:id="_yDL6chZqEeqIKOtfYTFqJQ" id="-TBKqrDtAL788sJuf1iJrDg" uri="content.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:ProcessComponent xmi:id="_yCcTkBZqEeqIKOtfYTFqJQ" name="PM1.1" guid="_yCcTkBZqEeqIKOtfYTFqJQ">
+    <methodElementProperty xmi:id="_yCcTkhZqEeqIKOtfYTFqJQ" name="pkg_loadCheck" value="true"/>
+    <process xsi:type="org.eclipse.epf.uma:CapabilityPattern" xmi:id="_yCcTkRZqEeqIKOtfYTFqJQ" name="PM1.1" guid="_yCcTkRZqEeqIKOtfYTFqJQ" presentationName="PM1.1">
+      <presentation xmi:id="-TBKqrDtAL788sJuf1iJrDg" href="uma://-TBKqrDtAL788sJuf1iJrDg#-TBKqrDtAL788sJuf1iJrDg"/>
+      <defaultContext href="uma://_zZLhUBTbEeqluqIEikt1EA#_esxmwBZnEeqIKOtfYTFqJQ"/>
+      <validContext href="uma://_zZLhUBTbEeqluqIEikt1EA#_esxmwBZnEeqIKOtfYTFqJQ"/>
+    </process>
+  </org.eclipse.epf.uma:ProcessComponent>
+</xmi:XMI>

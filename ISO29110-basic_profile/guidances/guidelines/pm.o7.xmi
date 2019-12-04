@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-t8gMKGZetVuzckeisE9UuQ" name="new_guideline,_Ivnc8BToEeqluqIEikt1EA" guid="-t8gMKGZetVuzckeisE9UuQ" changeDate="2019-12-02T16:43:22.731+0700">
+  <mainDescription>Software Quality Assurance is performed to provide assurance that work products and processes comply with the Project Plan&#xD;
+and Requirements Specification.</mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

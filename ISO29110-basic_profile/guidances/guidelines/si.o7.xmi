@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-sKkKL9FmFE10Gspbqmg7MA" name="new_guideline,_1mmIMBToEeqluqIEikt1EA" guid="-sKkKL9FmFE10Gspbqmg7MA" changeDate="2019-12-02T16:48:24.162+0700">
+  <mainDescription>Verification and Validation Tasks of all required work products are performed using the defined criteria to achieve&#xD;
+consistency among output and input products in each activity. Defects are identified, and corrected; records are stored in&#xD;
+the Verification/Validation Results.</mainDescription>
+</org.eclipse.epf.uma:ContentDescription>
